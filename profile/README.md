@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="rishource.png" alt="Rishource Logo" width="55%"/>
+  <img src="https://github.com/rishource/.github/blob/main/rishource.png" alt="Rishource Logo" width="55%"/>
 </p>  
 
 <p align="center">
